@@ -55,6 +55,8 @@ MSCViT/
 └── NoteBook/
    └── ChesterMSCViT.ipynb    # Full training & evaluation pipeline
 
+```
+
 ---
 
 ## 🧪 Features
@@ -80,6 +82,7 @@ Special thanks to the researchers behind MSCViT and the creators of the Chest X-
 ---
 
 For questions or issues, feel free to open an **issue** or a **pull request**!
+
 
 
 
