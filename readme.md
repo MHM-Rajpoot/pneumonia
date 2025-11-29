@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo/MSCViT/blob/main/NoteBook/ChesterMSCViT.ipynb)
 
-![Deep Learning in Medical Science](meta\Pneumonia.png)
+![Deep Learning in Medical Science](meta/Pneumonia.png)
 
 MSCViT is a lightweight hybrid neural network combining the strengths of Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs). It integrates convolutions for local feature extraction with multi-scale self-attention for global context, making it exceptionally suited for data-scarce medical imaging tasks.
 
@@ -43,7 +43,7 @@ MSCViT integrates:
 
 ## 👨‍⚕️ Clinical Workflow Example
 
-![Doctor Workflow](meta\Pneumonia.gif)
+![Doctor Workflow](meta/Pneumonia.gif)
 
 ---
 
@@ -80,3 +80,4 @@ Special thanks to the researchers behind MSCViT and the creators of the Chest X-
 ---
 
 For questions or issues, feel free to open an **issue** or a **pull request**!
+
