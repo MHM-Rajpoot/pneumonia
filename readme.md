@@ -4,7 +4,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2501.06040-b31b1b.svg)](https://arxiv.org/abs/2501.06040)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo/MSCViT/blob/main/NoteBook/ChesterMSCViT.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://github.com/MHM-Rajpoot/pneumonia/blob/main/NoteBook/ChesterMSCViT.ipynb))
 
 ![Deep Learning in Medical Science](meta/Pneumonia.png)
 
@@ -80,4 +80,5 @@ Special thanks to the researchers behind MSCViT and the creators of the Chest X-
 ---
 
 For questions or issues, feel free to open an **issue** or a **pull request**!
+
 
