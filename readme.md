@@ -1,4 +1,4 @@
-# MSCViT: Multi-Scale Convolutional Vision Transformer
+# MSCViT: Multi-Scale Convolutional Vision Transformer for Pneumonia
 
 **Hybrid CNN + ViT for Tiny Medical Datasets – Applied to Pneumonia Detection**
 
@@ -82,6 +82,7 @@ Special thanks to the researchers behind MSCViT and the creators of the Chest X-
 ---
 
 For questions or issues, feel free to open an **issue** or a **pull request**!
+
 
 
 
