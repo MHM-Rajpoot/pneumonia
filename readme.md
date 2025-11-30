@@ -4,7 +4,6 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2501.06040-b31b1b.svg)](https://arxiv.org/abs/2501.06040)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MHM-Rajpoot/pneumonia/blob/main/NoteBook/ChesterMSCViT.ipynb)
 
 ![Deep Learning in Medical Science](meta/Pneumonia.png)
 
@@ -53,9 +52,17 @@ MSCViT integrates:
 MSCViT/
 │
 └── NoteBook/
-   └── ChesterMSCViT.ipynb    # Full training & evaluation pipeline
-
+   ├──  Chester MSCViT Training.ipynb      # Training-only notebook
+   └──  Chester MSCViT Inference.ipynb     # Inference-only notebook
+   
 ```
+
+| Notebook                           | Colab Link                                                                                                                                                                                         |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ChesterMSCViT.ipynb**            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MHM-Rajpoot/pneumonia/blob/main/NoteBook/ChesterMSCViT.ipynb)                |
+| **Chester MSCViT Inference.ipynb** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MHM-Rajpoot/pneumonia/blob/main/NoteBook/Chester%20MSCViT%20Inference.ipynb) |
+| **Chester MSCViT Training.ipynb**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MHM-Rajpoot/pneumonia/blob/main/NoteBook/Chester%20MSCViT%20Training.ipynb)  |
+
 
 ---
 
@@ -82,6 +89,7 @@ Special thanks to the researchers behind MSCViT and the creators of the Chest X-
 ---
 
 For questions or issues, feel free to open an **issue** or a **pull request**!
+
 
 
 
