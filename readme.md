@@ -52,15 +52,15 @@ MSCViT integrates:
 MSCViT/
 │
 └── NoteBook/
-   ├──  Chester MSCViT Training.ipynb      # Training-only notebook
-   └──  Chester MSCViT Inference.ipynb     # Inference-only notebook
+   ├──  Chester MSCViT Training.ipynb      
+   └──  Chester MSCViT Inference.ipynb     
    
 ```
 
 | Notebook                           | Colab Link                                                                                                                                                                                         |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Chester MSCViT Inference.ipynb** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MHM-Rajpoot/pneumonia/blob/main/NoteBook/Chester%20MSCViT%20Inference.ipynb) |
 | **Chester MSCViT Training.ipynb**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MHM-Rajpoot/pneumonia/blob/main/NoteBook/Chester%20MSCViT%20Training.ipynb)  |
+| **Chester MSCViT Inference.ipynb** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MHM-Rajpoot/pneumonia/blob/main/NoteBook/Chester%20MSCViT%20Inference.ipynb) |
 
 
 ---
@@ -88,6 +88,7 @@ Special thanks to the researchers behind MSCViT and the creators of the Chest X-
 ---
 
 For questions or issues, feel free to open an **issue** or a **pull request**!
+
 
 
 
